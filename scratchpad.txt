@@ -1,3 +1,5 @@
+Digital Ocean Dev1: 159.203.132.32
+
 X Don't save blank items for every request.
 X Code smell:  POST test is too long?
 X Display multiple items in the table.
@@ -9,3 +11,6 @@ X Add unique URLs for each list
 X Add a URL for creating a new list via POST
 X Add URLs for adding a new item to an existing list via POST
 Refactor away some duplication in urls.py
+
+
+
