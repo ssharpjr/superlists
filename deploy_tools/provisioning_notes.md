@@ -1,10 +1,10 @@
-Provisioning a new site
+Provisioning a New Site
 =======================
 
-## Required packages:
+## Required Packages:
 
 * nginx
-* Python 3
+* Python3
 * Git
 * pip
 * virtualenv
@@ -27,10 +27,10 @@ eg, on Ubuntu:
 ## Folder Structure:
 Assume we have a user account at /home/username
 
-/home/username
-    sites
-      SITENAME
-      database
-      source
-      static
-      virtualenv
+* /home/username
+  * sites
+    * SITENAME
+    * database
+    * source
+    * static
+    * virtualenv
