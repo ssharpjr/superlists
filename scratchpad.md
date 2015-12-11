@@ -1,20 +1,22 @@
-~Don't save blank items for every request~
+# Scratch Pad
 
-~Code smell:  POST test is too long?~
+~~Don't save blank items for every request~~
 
-~Display multiple items in the table.~
+~~Code smell:  POST test is too long?~~
 
-~Support more than one list!~
+~~Display multiple items in the table.~~
 
-~Get FTs to clean up after themselves~
+~~Support more than one list!~~
 
-~Adjust model so that items are associated with different lists~
+~~Get FTs to clean up after themselves~~
 
-~Add unique URLs for each list~
+~~Adjust model so that items are associated with different lists~~
 
-~Add a URL for creating a new list via POST~
+~~Add unique URLs for each list~~
 
-~Add URLs for adding a new item to an existing list via POST~
+~~Add a URL for creating a new list via POST~~
+
+~~Add URLs for adding a new item to an existing list via POST~~
 
 Refactor away some duplication in urls.py
 
